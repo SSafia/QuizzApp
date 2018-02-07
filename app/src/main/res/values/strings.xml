@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="quantity">quantity</string>
+    <string name="quantity_text_view">0</string>
+    <string name="order">ORDER</string>
+    <string name="text_view">Woohoo!</string>
+    <string name="price">order summary</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    // Welcome message
+    <string name="question">Welcome to the Google-Udacity Android UI course quizz!</string>
+    // Question 1
+    <string name="question1">Is the Google-Udacity Android course amazing?</string>
+    // Question 1 Answers
+    <string name="ready1">Yes.</string>
+    <string name="ready2">Ayay Captain!</string>
+    <string name="ready3">Totally!</string>
+    <string name="ready4">Over 9000!</string>
+    // Question 2
+    <string name="question2">Did Kunal eat the cake with the flour? Check the correct box(es) if yes.</string>
+    // Question 2 Answers
+    <string name="answer1">All of it!</string>
+    <string name="answer2">Partially.</string>
+    <string name="answer3">Not at all.</string>
+    // Question 3
+    <string name="question3">How many times do you think Lyla Fujiwara teaches the course?</string>
+    // Q3 A
+    <string name="answer2_1">2 times</string>
+    <string name="answer2_2">3 times</string>
+    <string name="answer2_3">5 times</string>
+    // Q4
+    <string name="question4">Statement: Katherine has a Google+ account with many followers! Check box if correct.</string>
+    // Q4 A
+    <string name="answer3_1">Google+?</string>
+    // Thank you!
+    <string name="message">Thank you for participating!</string>
+    // Button
+    <string name="button">Click me!</string>
+
+
+</resources>
